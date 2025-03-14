@@ -16,11 +16,11 @@ Para utilizar este repositorio, sigue estos pasos:
 
 1. **Clona el repositorio** en tu máquina local:
    ```bash
-   git clone https://github.com/ezequiel-dev93/Logica-Python.git
+   git clone https://github.com/ezequiel-dev93/logica_python.git
    
 2. **Navega al directorio del proyecto**
    ```bahs
-   cd Logica-Python
+   cd logica_python
    
 3. **Instala Python (si no lo tienes instalado):**
    - Descarga Python desde python.org.
